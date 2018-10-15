@@ -1,0 +1,2 @@
+class TipoVacinaInvalido(Exception):
+    pass
